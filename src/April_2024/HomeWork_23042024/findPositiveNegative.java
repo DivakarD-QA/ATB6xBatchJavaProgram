@@ -1,4 +1,4 @@
-package HomeWork_23042024;
+package April_2024.HomeWork_23042024;
 
 import java.util.Scanner;
 
